@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/IPlayerService/GetOwnedGames/v0001/",
+      "destination": "https://steam-web-api.pages.dev/IPlayerService/GetOwnedGames/v0001/"
+    }
+  ]
+}
